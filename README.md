@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working as Software Engineer at Leonardo Helicopters
-- 🌱 I’m currently learning Java and PySpark and ETL fundamentals
+- 🌱 I’m currently learning Java, PySpark and ETL fundamentals
 - 💬 Ask me about experiences or any tech-related stuff.
 - 📫 How to reach me: alexmiguel.francomartinez@gmail.com
 - 😄 Pronouns: He/His
