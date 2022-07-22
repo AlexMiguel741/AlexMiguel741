@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as **Software Engineer at Leonardo Helicopters**
 
-- 🌱 I’m currently learning **Java, PySpark and ETL fundamentals**
+- 🌱 I’m currently learning/improving **Java, PySpark, C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlexMiguel741](https://github.com/AlexMiguel741)
 
