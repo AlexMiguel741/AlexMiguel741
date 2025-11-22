@@ -1,37 +1,25 @@
 <h1 align="center">Hi there, I'm Alex Miguel 👋</h1>
-<h3 align="center">Software Engineer | MSc | AI & Data Integration</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Swiss%20G--Permit%20Holder-red?style=for-the-badge" />
-</p>
-
-<p align="center">
- 🚀 <b>Engineering robust software solutions with a focus on AI integration and performance.</b>
-</p>
-
+<h3 align="center">Software Engineer | MSc Automation & Control @POLIMI</h3>
 ---
 
 ### 👨‍💻 About Me
 
-I am an **Italian Software Engineer** currently working in the Swiss aerospace sector (**Leonardo Helicopters**). With a Master's degree and over 4 years of professional experience, I specialize in bridging the gap between complex backend systems and modern AI technologies.
-
-*   🔭 **Currently working on:** Mission-critical software systems at **Leonardo Helicopters**.
-*   📍 **Location/Status:** Living in Italy, working in Switzerland (G-Permit). **Ready for full relocation to Zurich.**
-*   🌱 **Deepening knowledge in:** MLOps, Vector Databases, and Large Language Model (LLM) integration.
-*   ⚡ **Offline:** When I'm not optimizing code, I'm shredding on the guitar 🎸 or snowboarding down the Alps 🏂.
+Backend Software Engineer with 4+ years of experience. A Politecnico di Milano graduate (Automation & Control Engineering) with a focus on Software Engineering and AI/ML.
+Driven by curiosity, I actively experiment with and build applications using the latest Generative-AI frameworks.
 
 ---
 
 ### 🛠️ Technical Arsenal
 
-| **Core Languages** | **AI & Data Engineering** | **Tools & Environment** |
+| **Backend & Frameworks** | **AI, Data & GenAI** | **DevOps & Cloud** |
 | :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=python" width="40"/> **Python** (Primary) | <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> **TensorFlow** | <img src="https://skillicons.dev/icons?i=docker" width="40"/> **Docker** |
-| <img src="https://skillicons.dev/icons?i=java" width="40"/> **Java** (Enterprise) | <img src="https://skillicons.dev/icons?i=pandas" width="40"/> **Pandas / PySpark** | <img src="https://skillicons.dev/icons?i=git" width="40"/> **Git & GitHub** |
-| <img src="https://skillicons.dev/icons?i=cpp" width="40"/> **C++** (Performance) | <img src="https://skillicons.dev/icons?i=matlab" width="40"/> **Matlab** | <img src="https://skillicons.dev/icons?i=linux" width="40"/> **Linux** |
-| <img src="https://skillicons.dev/icons?i=qt" width="40"/> **Qt** | <img src="https://skillicons.dev/icons?i=mysql" width="40"/> **MySQL** | <img src="https://skillicons.dev/icons?i=idea" width="40"/> **IntelliJ / VS Code** |
+| <img src="https://skillicons.dev/icons?i=cs" width="40"/> **C# / .NET** | <img src="https://skillicons.dev/icons?i=pytorch" width="40"/> **PyTorch / Keras** | <img src="https://skillicons.dev/icons?i=azure" width="40"/> **Azure Cloud** |
+| <img src="https://skillicons.dev/icons?i=java" width="40"/> **Java** | <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> **TensorFlow** | <img src="https://skillicons.dev/icons?i=docker" width="40"/> **Docker** |
+| <img src="https://skillicons.dev/icons?i=cpp" width="40"/> **C / C++** | <img src="https://user-images.githubusercontent.com/25181517/192108372-d7123c8f-2c87-41ea-b833-512dfa35101b.png" width="40"/> **Weaviate (Vector DB)** | <img src="https://skillicons.dev/icons?i=githubactions" width="40"/> **CI/CD Pipelines** |
+| <img src="https://skillicons.dev/icons?i=qt" width="40"/> **Qt Framework** | <img src="https://skillicons.dev/icons?i=pandas" width="40"/> **Pandas / PyPlot** | <img src="https://skillicons.dev/icons?i=git" width="40"/> **Git / DevOps** |
+| <img src="https://skillicons.dev/icons?i=postgres" width="40"/> **SQL ** | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40"/> **PySpark / Spark** | <img src="https://skillicons.dev/icons?i=linux" width="40"/> **Linux Environment** |
+
+
 
 ---
 
