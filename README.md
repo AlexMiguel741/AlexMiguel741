@@ -4,7 +4,8 @@
 
 ### 👨‍💻 About Me
 
-Backend Software Engineer with 4+ years of experience. A Politecnico di Milano graduate (Automation & Control Engineering) with a focus on Software Engineering and AI/ML.
+Backend Software Engineer with 4+ years of experience. Currently working for @United Machining. 
+A Politecnico di Milano graduate (Automation & Control Engineering) with a focus on Software Engineering and AI/ML.
 Driven by curiosity, I actively experiment with and build applications using the latest Generative-AI frameworks.
 
 ---
