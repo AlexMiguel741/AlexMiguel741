@@ -14,7 +14,7 @@ Driven by curiosity, I actively experiment with and build applications using the
 
 | **Backend & Frameworks** | **AI, Data & GenAI** | **DevOps & Cloud** |
 | :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=cs" width="40"/> **C# / .NET** | <img src="https://skillicons.dev/icons?i=pytorch" width="40"/> **PyTorch / Keras** | <img src="https://skillicons.dev/icons?i=azure" width="40"/> **Azure Cloud** |
+| <img src="https://skillicons.dev/icons?i=cs" width="40"/> **C# / .NET** | <img src="https://skillicons.dev/icons?i=pytorch" width="40"/> **PyTorch / Keras** | <img src="https://skillicons.dev/icons?i=azure" width="40"/> **Azure Devops** |
 | <img src="https://skillicons.dev/icons?i=java" width="40"/> **Java** | <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> **TensorFlow** | <img src="https://skillicons.dev/icons?i=docker" width="40"/> **Docker** |
 | <img src="https://skillicons.dev/icons?i=cpp" width="40"/> **C / C++** | <img src="https://user-images.githubusercontent.com/25181517/192108372-d7123c8f-2c87-41ea-b833-512dfa35101b.png" width="40"/> **Weaviate (Vector DB)** | <img src="https://skillicons.dev/icons?i=githubactions" width="40"/> **CI/CD Pipelines** |
 | <img src="https://skillicons.dev/icons?i=qt" width="40"/> **Qt Framework** | <img src="https://skillicons.dev/icons?i=pandas" width="40"/> **Pandas / PyPlot** | <img src="https://skillicons.dev/icons?i=git" width="40"/> **Git / DevOps** |
