@@ -1,6 +1,6 @@
 # Alex Franco
 
-**Software Engineer moving into Applied AI**
+**R&D Software Engineer · Passionate about Applied AI**
 MSc Automation & Control Engineering · Politecnico di Milano · based in Ticino / Lombardy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alex--miguel--franco-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alex-miguel-franco/)
@@ -62,8 +62,3 @@ Braking test data processing and reporting, Matlab → Python migration · Pytho
 
 **Certifications:** Claude Code in Action (Anthropic) · Retrieval Augmented Generation ·
 Neural Networks and Deep Learning · AI with Python (DeepLearning.AI)
-
----
-
-Open to **AI / ML** and **software engineering** roles in industrial automation,
-manufacturing, robotics and aerospace · Switzerland or remote.
