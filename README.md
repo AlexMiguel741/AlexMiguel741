@@ -1,7 +1,7 @@
 # Alex Franco
 
 **R&D Software Engineer · Passionate about Applied AI**
-MSc Automation & Control Engineering · Politecnico di Milano · based in Ticino / Lombardy
+MSc Automation & Control Engineering · Politecnico di Milano 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alex--miguel--franco-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alex-miguel-franco/)
 [![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexmiguel.francomartinez@gmail.com)
