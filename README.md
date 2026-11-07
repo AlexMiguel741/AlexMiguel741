@@ -6,8 +6,6 @@ MSc Automation & Control Engineering · Politecnico di Milano
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alex--miguel--franco-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alex-miguel-franco/)
 [![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexmiguel.francomartinez@gmail.com)
 
-I write software for real machines and real data: machine tools, helicopter flight tests,
-automotive braking systems. Now I'm bringing machine learning and LLMs into that world.
 
 ---
 
