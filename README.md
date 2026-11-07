@@ -1,44 +1,69 @@
-<h1 align="center">Hi there, I'm Alex Miguel 👋</h1>
-<h3 align="center">Software Engineer | MSc Automation & Control @POLIMI</h3>
----
+# Alex Franco
 
-### 👨‍💻 About Me
+**Software Engineer moving into Applied AI**
+MSc Automation & Control Engineering · Politecnico di Milano · based in Ticino / Lombardy
 
-Backend Software Engineer with 4+ years of experience. Currently working for @United Machining. 
-A Politecnico di Milano graduate (Automation & Control Engineering) with a focus on Software Engineering and AI/ML.
-Driven by curiosity, I actively experiment with and build applications using the latest Generative-AI frameworks.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alex--miguel--franco-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alex-miguel-franco/)
+[![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alexmiguel.francomartinez@gmail.com)
 
-
-
-### 🛠️ Tech Stack
-
-| **Backend & Frameworks** | **AI, Data & GenAI** | **DevOps & Cloud** |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=cs" width="40"/> **C# / .NET** | <img src="https://skillicons.dev/icons?i=pytorch" width="40"/> **PyTorch / Keras** | <img src="https://skillicons.dev/icons?i=azure" width="40"/> **Azure Devops** |
-| <img src="https://skillicons.dev/icons?i=java" width="40"/> **Java** | <img src="https://skillicons.dev/icons?i=tensorflow" width="40"/> **TensorFlow** | <img src="https://skillicons.dev/icons?i=docker" width="40"/> **Docker** |
-| <img src="https://skillicons.dev/icons?i=cpp" width="40"/> **C / C++** | <img src="https://user-images.githubusercontent.com/25181517/192108372-d7123c8f-2c87-41ea-b833-512dfa35101b.png" width="40"/> **Weaviate (Vector DB)** | <img src="https://skillicons.dev/icons?i=githubactions" width="40"/> **CI/CD Pipelines** |
-| <img src="https://skillicons.dev/icons?i=qt" width="40"/> **Qt Framework** | <img src="https://skillicons.dev/icons?i=pandas" width="40"/> **Pandas / PyPlot** | <img src="https://skillicons.dev/icons?i=git" width="40"/> **Git / DevOps** |
-| <img src="https://skillicons.dev/icons?i=postgres" width="40"/> **SQL ** | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40"/> **PySpark / Spark** | <img src="https://skillicons.dev/icons?i=linux" width="40"/> **Linux Environment** |
-
-
+I write software for real machines and real data: machine tools, helicopter flight tests,
+automotive braking systems. Now I'm bringing machine learning and LLMs into that world.
 
 ---
 
-### 📊 GitHub Stats
+## Experience
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alexmiguel741&show_icons=true&theme=tokyonight&hide_border=true" alt="alexmiguel741" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmiguel741&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="alexmiguel741" />
-</p>
+**AGIE CHARMILLES** (United Machining) · R&D Software Engineer · *2022 – present*
+Software for high-precision machine tools · C# · .NET · Agile
+
+**Leonardo Helicopters** · Software Engineer · *2021 – 2022*
+Real-time flight test data acquisition and analysis · Java · Apache Spark
+
+**Brembo** · R&D Software Engineer Intern · *2021*
+Braking test data processing and reporting, Matlab → Python migration · Python · CAN bus
 
 ---
 
-### 🤝 Let's Connect
+## Selected projects
 
-<p align="center">
-<a href="https://www.linkedin.com/in/alex-miguel-franco/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="alex-miguel-franco" /></a>
-<a href="mailto:alexmiguel.francomartinez@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="alex-miguel-franco" /></a>
-<a href="https://www.leetcode.com/alexfmm95" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-Solved-FFA116?style=for-the-badge&logo=leetcode" alt="alexfmm95" /></a>
-</p>
+### Machine learning & AI
+
+| | Project | Stack |
+| :-- | :-- | :-- |
+| 🔌 | [**Fault diagnosis of electrical devices (MSc thesis)**](https://github.com/AlexMiguel741/MasterThesis-NILM-via-Statistical-Learning)<br>Detecting mechanical faults in appliances from their power signal only, with Rold srl | Python · SVM · kNN |
+| 🎯 | [**Explainable object localization**](https://github.com/AlexMiguel741/Mask-supervised-object-localization-GAP-CAM)<br>A classifier that also learns *where* the object is, trained without bounding boxes | TensorFlow · CNN · CAM |
+| 🛰️ | [**Aerial image classification**](https://github.com/AlexMiguel741/CNN-MultiClass-Classification-UC-Merced-Land-Use-Transfer-Learning)<br>Custom CNN vs VGG16 transfer learning on 21 land-use classes | TensorFlow · Keras |
+| 💶 | [**AirPrice: AI pricing simulator**](https://github.com/AlexMiguel741/AirPrice_DynamicPricing)<br>Gemini with Google Search grounding, structured JSON output and validation: price, demand and revenue forecasts for short-term rentals | React · TypeScript · Gemini API |
+
+### Control & automation
+
+| | Project | Stack |
+| :-- | :-- | :-- |
+| 🚗 | [**Autonomous vehicle platoon control**](https://github.com/AlexMiguel741/control-of-a-string-of-vehicles)<br>Decentralized networked control of a string of vehicles, LMI-based design | Matlab · Simulink |
+| 🛗 | [**Elevator plant automation**](https://github.com/AlexMiguel741/Automation-of-an-Elevator-Plant)<br>PLC control software for a multi-floor elevator | ABB AC500 PLC |
+| 🚄 | [**High-speed railway safety analysis**](https://github.com/AlexMiguel741/Safety-in-automation-system-project)<br>System hazard analysis of ERTMS/ETCS Level 2 | Safety engineering |
+
+### Web
+
+| | Project | Stack |
+| :-- | :-- | :-- |
+| 🏡 | [**Laveno Lake House**](https://github.com/AlexMiguel741/gemini-web-site-frontend-holiday-home) · [live site](https://www.lavenolakehouse.com/)<br>Multilingual website for a holiday home, with live availability calendar sync | React · TypeScript · Vite · Tailwind |
+
+---
+
+## Tech stack
+
+| | |
+| :-- | :-- |
+| **Languages** | Python · C# · Java · C/C++ · SQL · TypeScript |
+| **AI / Data** | TensorFlow / Keras · PyTorch · scikit-learn · Pandas · Apache Spark · RAG · Weaviate |
+| **Engineering** | .NET · Git · Docker · Azure DevOps · CI/CD · Linux |
+| **Control** | Matlab / Simulink · PLC · CAN bus |
+
+**Certifications:** Claude Code in Action (Anthropic) · Retrieval Augmented Generation ·
+Neural Networks and Deep Learning · AI with Python (DeepLearning.AI)
+
+---
+
+Open to **AI / ML** and **software engineering** roles in industrial automation,
+manufacturing, robotics and aerospace · Switzerland or remote.
