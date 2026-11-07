@@ -31,6 +31,7 @@ Braking test data processing and reporting, Matlab → Python migration · Pytho
 | 🔌 | [**Fault diagnosis of electrical devices (MSc thesis)**](https://github.com/AlexMiguel741/MasterThesis-NILM-via-Statistical-Learning)<br>Detecting mechanical faults in appliances from their power signal only, with Rold srl | Python · SVM · kNN |
 | 🎯 | [**Explainable object localization**](https://github.com/AlexMiguel741/Mask-supervised-object-localization-GAP-CAM)<br>A classifier that also learns *where* the object is, trained without bounding boxes | TensorFlow · CNN · CAM |
 | 🛰️ | [**Aerial image classification**](https://github.com/AlexMiguel741/CNN-MultiClass-Classification-UC-Merced-Land-Use-Transfer-Learning)<br>Custom CNN vs VGG16 transfer learning on 21 land-use classes | TensorFlow · Keras |
+| 👕 | [**Fashion-MNIST classification**](https://github.com/AlexMiguel741/FCNN-MultiClass-Classification-Fashion-MNIST)<br>Fully convolutional network classifying 10 clothing categories (60k training images) | TensorFlow · FCNN |
 | 💶 | [**AirPrice: AI pricing simulator**](https://github.com/AlexMiguel741/AirPrice_DynamicPricing)<br>Gemini with Google Search grounding, structured JSON output and validation: price, demand and revenue forecasts for short-term rentals | React · TypeScript · Gemini API |
 
 ### Control & automation
