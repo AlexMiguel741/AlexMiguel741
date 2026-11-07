@@ -11,13 +11,13 @@ MSc Automation & Control Engineering · Politecnico di Milano
 
 ## Experience
 
-**AGIE CHARMILLES** (United Machining) · R&D Software Engineer · *2022 – present*
+**AGIE CHARMILLES** (United Machining) · R&D Software Engineer · *2022 – present*<br>
 Software for high-precision machine tools · C# · .NET · Agile
 
-**Leonardo Helicopters** · Software Engineer · *2021 – 2022*
+**Leonardo Helicopters** · Software Engineer · *2021 – 2022*<br>
 Real-time flight test data acquisition and analysis · Java · Apache Spark
 
-**Brembo** · R&D Software Engineer Intern · *2021*
+**Brembo** · R&D Software Engineer Intern · *2021*<br>
 Braking test data processing and reporting, Matlab → Python migration · Python · CAN bus
 
 ---
